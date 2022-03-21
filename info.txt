@@ -22,7 +22,7 @@ https://phptravels.com/demo
 
 DOC JAVASCRIPT
 https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Grammar_and_types#declaraciones
-
+añadimos
 
 
 --------------------------------------------PLUGINS INTERESANTES----------------------------------------------------------
