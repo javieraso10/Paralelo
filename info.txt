@@ -1,0 +1,44 @@
+npm init
+npm install cypress --save-dev
+
+
+npx cypress open |||||||||||||||||||||||||||||||||||||||||||||||||| abirmos pantalla cypress
+.\node_modules\.bin\cypress run|||||||||||||||||||||||||||||||||||| lanzamos tods los tests sin abrir navegador, solo desde consola
+npx cypress run --headed||||||||||||||||||||||||||||||||||||||||||| lanzamos toods los test abriendo- el navegador y la consola
+npx cypress run --browser chrome||||||||||||||||||||||||||||||||||||||||||| lanzamos toods los test abriendo- el navegador indicado y la consola
+npx cypress run --spec "cypress\integration\seccion1\Hola_mundo.js"|||||||| lanzamos test especifico
+npx cypress run --spec "cypress\integration\seccion1\*"|||||||||||||||||||| lanzamos varios
+
+
+
+
+=============================================URL==============================================================
+PAGINAS PARA PRUEBAS
+https://demoqa.com/
+https://testingqarvn.com.es/upload-files/
+https://phptravels.com/demo
+
+
+
+DOC JAVASCRIPT
+https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Grammar_and_types#declaraciones
+
+
+
+--------------------------------------------PLUGINS INTERESANTES----------------------------------------------------------
+require('cypress-xpath')
+require('cypress-plugin-tab')
+
+
+
+--------------------------------------git------------------------
+git init
+git config user.name "someone"
+git config user.email "someone@someplace.com"
+git add .
+git commit -m "some init msg"
+
+DATOS GITHUB
+javieraso10
+javi_vierin@hotmail.es
+Rayovallecano10.
